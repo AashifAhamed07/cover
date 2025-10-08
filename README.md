@@ -113,6 +113,7 @@ Publish the website in the LocalHost.
   </style>
 </head>
 <body>
+  <h1>AASHIF AHAMED S (25013503) </h1>
   <div class="cover">
     <div class="top">SEC Insights</div>
     
@@ -138,8 +139,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](OP-6.png)
-
+![alt text](<Screenshot (37).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.

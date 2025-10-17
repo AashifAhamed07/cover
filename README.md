@@ -53,8 +53,8 @@ Publish the website in the LocalHost.
       margin: 40px auto;
       padding: 40px;
       position: relative;
-      background: skyblue; /* faded parchment feel */
-      border: 5px solid black;  /* dark brown vintage border */
+      background: skyblue;
+      border: 5px solid black;
       border-radius: 6%;
     }
     .top {
